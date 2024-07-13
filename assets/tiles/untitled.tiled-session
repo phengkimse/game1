@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level-01.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "game1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level-01.tmx": {
+            "scale": 1.4249999999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.64912280701753,
+                "y": 184.21052631578954
+            }
+        }
+    },
+    "last.imagePath": "D:/folder/game1/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "game1.tsx",
+        "level-01.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "game1.tsx",
+        "level-01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
